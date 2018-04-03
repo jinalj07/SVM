@@ -1,4 +1,4 @@
-#Machine Learning Algorithms
+Machine Learning Algorithms
 
 Regression Models
 
